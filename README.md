@@ -23,15 +23,15 @@ Link to the dataset on Hugging Face:
 https://huggingface.co/datasets/StefanBaudier/LEOMSAT
 
 References:
-[1] Maisonobe, L., Pommier-Maurussane, V. & Pommier, V. Orekit : An Open-source Library for Operational Flight Dynamics Applications.
-[2] Vallado, D. A. Fundamentals of Astrodynamics and Applications (Vol. 12) Springer Science & Business Media (Space Technology Library, 2007).
-[3] Schaub, H., Vadali, S. R., Junkins, J. L. & Alfriend, K. T. Spacecraft Formation Flying Control Using Mean Orbit Elements. The Journal of the Astronautical Sciences 48, 69–87. issn: 00219142, 2195-0571. (2023) (Mar. 2000).
-[4] Garulli, A., Giannitrapani, A., Leomanni, M. & Scortecci, F.Autonomous Station Keeping for LEO Missions with a Hybrid Continuous/Impulsive Electric Propulsion System. 32nd International Electric Propulsion Conference (2011).
-[5] Space-Track.Org https://www.space-track.org. (2024).
-[6] DISCOSweb https://discosweb.esoc.esa.int/. (2024).
-[7] Broucke, R. A. & Cefola, P. J. On the Equinoctial Orbit Elements. Celestial Mechanics 5, 303–310. issn: 0008-8714, 1572-9478. (2024) (May 1972).
+- [1] Maisonobe, L., Pommier-Maurussane, V. & Pommier, V. Orekit : An Open-source Library for Operational Flight Dynamics Applications.
+- [2] Vallado, D. A. Fundamentals of Astrodynamics and Applications (Vol. 12) Springer Science & Business Media (Space Technology Library, 2007).
+- [3] Schaub, H., Vadali, S. R., Junkins, J. L. & Alfriend, K. T. Spacecraft Formation Flying Control Using Mean Orbit Elements. The Journal of the Astronautical Sciences 48, 69–87. issn: 00219142, 2195-0571. (2023) (Mar. 2000).
+- [4] Garulli, A., Giannitrapani, A., Leomanni, M. & Scortecci, F.Autonomous Station Keeping for LEO Missions with a Hybrid Continuous/Impulsive Electric Propulsion System. 32nd International Electric Propulsion Conference (2011).
+- [5] Space-Track.Org https://www.space-track.org. (2024).
+- [6] DISCOSweb https://discosweb.esoc.esa.int/. (2024).
+- [7] Broucke, R. A. & Cefola, P. J. On the Equinoctial Orbit Elements. Celestial Mechanics 5, 303–310. issn: 0008-8714, 1572-9478. (2024) (May 1972).
 
 
 Papers using the dataset: 
-Baudier, S., Velasco-Forero, S., Jean, F., Brooks, D. & Angulo, J. Synthetic Dataset of Maneuvering Low Earth Orbit Satellite Trajectories for AI Analysis. 1st Artificial Intelligence in and for Space conference (SPAICE). (2024).
-Baudier, S., Velasco-Forero, S., Jean, F., Brooks, D. & Angulo, J. Deep Matrix Profile for Maneuver Classification in Low Earth Orbit Satellite Trajectories. 32nd European Signal Processing Conference (EUSIPCO). (2024).
+- Baudier, S., Velasco-Forero, S., Jean, F., Brooks, D. & Angulo, J. Synthetic Dataset of Maneuvering Low Earth Orbit Satellite Trajectories for AI Analysis. 1st Artificial Intelligence in and for Space conference (SPAICE). (2024).
+- Baudier, S., Velasco-Forero, S., Jean, F., Brooks, D. & Angulo, J. Deep Matrix Profile for Maneuver Classification in Low Earth Orbit Satellite Trajectories. 32nd European Signal Processing Conference (EUSIPCO). (2024).
